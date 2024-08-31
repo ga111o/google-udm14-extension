@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "google udm14",
+  "name": "google&udm=14",
   "version": "1.0",
-  "description": "구글검색 더 편하게 해봐요",
+  "description": "Search for only website using udm14 at Google",
   "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"],
   "background": {
     "scripts": ["background.js"],
