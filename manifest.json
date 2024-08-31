@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "google udm14",
+  "version": "1.0",
+  "description": "구글검색 더 편하게 해봐요",
+  "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
